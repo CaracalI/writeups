@@ -1,3 +1,3 @@
 # writeups
-writeups of ctf challenges &amp; machines  
-password to unlock a file : base64(flag)
+my writeups of ctf challenges &amp; machines   
+htb writeups are protected: to unlock a file the password is : base64(flag)
